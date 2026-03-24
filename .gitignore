@@ -1,2 +1,12 @@
 node_modules/
 .next/
+
+# Variáveis de ambiente — nunca subir pro git
+.env
+.env.local
+nutri-api/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
