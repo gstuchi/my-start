@@ -71,4 +71,4 @@ def calcular(data: UserData):
 
 
 # Frontend — deve ficar DEPOIS das rotas da API
-app.mount("/", StaticFiles(directory="static", html=True), name="static")
+app.mount("/", StaticFiles(directory="../frontend", html=True), name="static")
