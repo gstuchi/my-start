@@ -1,18 +1,8 @@
 # my-start
+
 Meu primeiro projeto sem nenhuma ajuda externa!
 
-
-
-
-
-
-
-
-
-
-
-
-Plataforma de Notícias e discussões sobre tecnologia onde : 
+Plataforma de Notícias e discussões sobre tecnologia onde :
 
 --> Os usuários postam conteúdos (artigos, notícias, perguntas)
 --> A comunidade vota e comenta
